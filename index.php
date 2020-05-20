@@ -5,7 +5,7 @@
 	<form action="insertProduct.php" method="post">
 		Name <input type="text" name="name" >
 		<br>
-		Picture <input type="url" name="Picture">
+		Picture <input type="file" name="Picture">
 		<br>
 		FB <input type="url" value="FB">
 	</form>
